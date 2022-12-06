@@ -1,4 +1,4 @@
-import { addEvent } from './main'
+import { addEvent } from './index'
 
 export interface dataType {
   createdAt: string;
